@@ -20,4 +20,13 @@ Here are some ideas to get you started:
 Si ya estás acá, puedo contarte algo acerca de mi, por ejemplo:
 
 🔭 JS es mi lenguaje favorito (actualmente intento ser mejor en esto haha)
+
 🤔 Estoy tratando de aprender más seriamente CSS (sé lo importante que puede ser)
+
+⚡ He trabajado con .NET Core, Angular 9, JQuery, Java (Android), C#, JS, Bootstrap 4, ASP.NET, JWT, Node JS (para hacer unas API's), Laravel (Algún día subiré un proyecto buenisimo que tengo de eso haha)
+
+Y por el momento, solo eso.
+
+También me gusta salir en bicicleta, conocer lugares nuevos y compartir una cerveza bien fria jajaja
+
+Soy de Concepción - Chile
