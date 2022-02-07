@@ -27,6 +27,4 @@ Si ya estás acá, puedo contarte algo acerca de mi, por ejemplo:
 
 Y por el momento, solo eso.
 
-También me gusta salir en bicicleta, conocer lugares nuevos y compartir una cerveza bien fria jajaja
-
 Soy de Concepción - Chile
